@@ -30,3 +30,10 @@ class Program{
      Console.WriteLine($"La cantidad de numeros mayores al promedio son: {con}");
     }
 }
+
+
+holassssss como estass
+dhskfhsfh0rk
+sdjhSDHFIY 
+Pa d764
+5+IUDEWGJQBDISHFhgGIEG W83 
