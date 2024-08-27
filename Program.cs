@@ -2,6 +2,7 @@
 
 class Program{
     static void Main(String[] args){
+        
         int [] Promedio = new int [10];
 
         for (int i = 0; i < 10; i++){
@@ -30,12 +31,4 @@ class Program{
      Console.WriteLine($"La cantidad de numeros mayores al promedio son: {con}");
     }
 
-    /////////////dsadsadsadadsadd
 }
-
-
-holassssss como estass
-dhskfhsfh0rk
-sdjhSDHFIY 
-Pa d764
-5+IUDEWGJQBDISHFhgGIEG W83 
